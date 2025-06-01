@@ -94,7 +94,7 @@ func main() {
 	mux := http.NewServeMux()
 	mux.HandleFunc("GET /", serverStatus)
 	mux.HandleFunc("GET /employees", getEmployees)
-	mux.HandleFunc("GET /employyees/{id}", getEmployee)
+	mux.HandleFunc("GET /employees/{id}", getEmployee)
 	mux.HandleFunc("POST /employees", createEmployee)
 	mux.HandleFunc("DELETE /employees/{id}", deleteEmployee)
 	mux.HandleFunc("PUT /employees/{id}", updateEmployee)
