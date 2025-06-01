@@ -13,7 +13,7 @@ Let's now check the functionality of our API's using postman.
    ![image](https://github.com/user-attachments/assets/268f641f-520c-4e93-a1fe-5121878fc907)
 3. GET method (Querying a specific employee using details i.e., ID details)
    ![image](https://github.com/user-attachments/assets/93537e52-6cdc-4219-b70f-c5a0f21d6026)
-4. PUT method (Updating a specific employee dtails)
+4. PUT method (Updating a specific employee details)
    ![image](https://github.com/user-attachments/assets/d494f8ff-d6cb-4cce-95d9-89967eded2f1)
 5. GET method (Querying employee with id = 2 to check the changes are successful post PUT method execution done in point 4)
    ![image](https://github.com/user-attachments/assets/2da28c2e-02c5-4784-aacd-d6d98a6682c7)
