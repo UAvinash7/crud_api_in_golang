@@ -19,7 +19,8 @@ Let's now check the functionality of our API's using postman.
    ![image](https://github.com/user-attachments/assets/2da28c2e-02c5-4784-aacd-d6d98a6682c7)
 6. DELETE method (Deleting a specific employee)
    ![image](https://github.com/user-attachments/assets/32cdcf4b-0967-4622-b8b5-3971e519ff98)
-7. GET method (Querying all employees, we can see in the respsone section that the employee with id is deleted)
-   ![image](https://github.com/user-attachments/assets/eff42224-f11f-43d8-ad25-3f5fb8ba80ab)
+7. GET method (Querying all employees, we can see in the respsone section that the employee with id = 2 is deleted)
+   ![image](https://github.com/user-attachments/assets/3dabc104-ef35-4095-b160-ff050c82cb4d)
+
 
    
